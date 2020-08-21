@@ -20,6 +20,7 @@ SOBRE ESTE JOGO:
 -Sistema de reparação de itens
 -Completamente colorido!!
 -Itens para te ajudar em batalha como bombas e poções
+-Mapa infestado de coletáveis como ouro, baús, poções, itens e bombas além dos monstros, salas do tesouro e lojas
 -Bombas podem quebrar paredes no mapa para ajudar na navegação
 -Tutorial básico inicial
 -Escolha de nome
